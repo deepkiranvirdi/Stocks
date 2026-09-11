@@ -127,17 +127,7 @@ These metrics help measure the difference between the predicted and actual stock
 
 ---
 
-## 📁 Project Structure
-
-```text
-InvestIQ/
-│
-├── Finalpro.py
-├── stock_data/
-│   └── <ticker>_stock_data.csv
-├── requirements.txt
-└── README.md
-```
+`
 
 ---
 
